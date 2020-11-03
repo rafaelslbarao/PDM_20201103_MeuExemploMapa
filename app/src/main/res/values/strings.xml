@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuExemploMapa</string>
+    <string name="CHAVE_API_GOOGLE_MAPS">AIzaSyCt9dQxut1Hb3Fj0-GkMkaoFi_nfNsiDos</string>
+    <string name="PermissoesNaoConcedidas">Todas as permissões devem ser autorizadas</string>
+</resources>
